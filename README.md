@@ -11,7 +11,6 @@ Veriler `yfinance` API'si ve web scraping yöntemleri ile `stockanalysis.com` ü
 Projede aşağıdaki yöntemler kullanılmıştır:
 - **Özellik Seçimi:** Korelasyon tabanlı özellik eleme, `DropCorrelatedFeatures` ve `SmartCorrelatedSelection`
 - **Makine Öğrenmesi Modelleri:**
-  - Lojistik Regresyon
   - Random Forest
 - **Özellik Mühendisliği:** `tsfresh` ile zaman serisi özellik çıkarımı
 
